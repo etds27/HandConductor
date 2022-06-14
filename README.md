@@ -11,5 +11,8 @@ https://google.github.io/mediapipe/solutions/hands.html
 
 
 Example of program running:
-https://user-images.githubusercontent.com/44955732/173703289-6b036170-3af7-4fec-bfb3-561fab09d02d.mp4
+
+
+https://user-images.githubusercontent.com/44955732/173703996-7a7a47bf-402e-444e-a833-8463e622e7b4.mp4
+
 
